@@ -22,7 +22,7 @@ This project aims to identify and analyze super weights in the context of Large 
 
 2. Install dependencies:
     ```bash
-    uv sync
+    uv sync --extra cu128
     ```
     of for cpu only
     ```bash

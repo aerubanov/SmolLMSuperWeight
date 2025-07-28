@@ -1,0 +1,29 @@
+# Core dependencies for SmolLM Super Weight Analysis
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers and NLP
+transformers>=4.30.0
+tokenizers>=0.13.0
+
+# Data Science and Visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Progress bars and utilities
+tqdm>=4.64.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Optional: For better performance and additional features
+# accelerate>=0.20.0  # For distributed training and mixed precision
+# datasets>=2.0.0     # If working with datasets
+# scipy>=1.7.0        # For scientific computing
+# pandas>=1.3.0       # For data manipulation

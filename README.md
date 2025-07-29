@@ -34,4 +34,4 @@ This project aims to identify and analyze super weights in the context of Large 
 ## Links
 
 - Original paper: https://arxiv.org/abs/2411.07191
-- Original code: https://github.com/pchizhov/hellaswag-evaluation
+- Original code: https://github.com/mengxiayu/LLMSuperWeight
